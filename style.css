@@ -18,7 +18,7 @@
 /* css for adding background image in left side  */
 .left {
   background-color: #ffffff;
-  background-image: url(Images/background.webp);
+  background-image: url(Images/background.webp) !important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
